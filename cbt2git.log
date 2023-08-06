@@ -1,0 +1,23 @@
+2023-08-06 06:56:55.197639 - Initialized conversion of CBT763
+2023-08-06 06:56:55.392261 - Received CBT.V505.FILE763.PDS from FILE763.XMI 
+2023-08-06 06:56:55.394675 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:56:55.395780 - Found @FILE763.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/@FILE763
+2023-08-06 06:56:55.396768 - Found ASMHX2PR.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/ASMHX2PR
+2023-08-06 06:56:55.397642 - Found ASMPR2HX.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/ASMPR2HX
+2023-08-06 06:56:55.398604 - Found HX2PR.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/HX2PR
+2023-08-06 06:56:55.399532 - Found HX2PR$1.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/HX2PR$1
+2023-08-06 06:56:55.400361 - Found HX2PR4.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/HX2PR4
+2023-08-06 06:56:55.401178 - Found HX2PR4$1.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/HX2PR4$1
+2023-08-06 06:56:55.402000 - Found LINK.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/LINK
+2023-08-06 06:56:55.402800 - Found OBJ2HEX.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/OBJ2HEX
+2023-08-06 06:56:55.402809 - Found PDSLOAD.bin containing application/octet-stream, moved to PDS/PDSLOAD
+2023-08-06 06:56:55.403611 - Found PDSLOAD$.bin containing application/octet-stream, moved to PDS/PDSLOAD$
+2023-08-06 06:56:55.405315 - Found PDSLOAD#.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/PDSLOAD#
+2023-08-06 06:56:55.405323 - Found PDSLOAD@.bin containing application/octet-stream, moved to PDS/PDSLOAD@
+2023-08-06 06:56:55.407307 - Found PDSLOJCL.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/PDSLOJCL
+2023-08-06 06:56:55.408163 - Found PR2HX.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/PR2HX
+2023-08-06 06:56:55.409000 - Found PR2HX$1.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/PR2HX$1
+2023-08-06 06:56:55.410061 - Found PR42HX.txt (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/PR42HX
+2023-08-06 06:56:55.411058 - Found PR42HX$1.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/PR42HX$1
+2023-08-06 06:56:55.412188 - Found SAMPJCL.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/SAMPJCL
+2023-08-06 06:56:55.413517 - Found SHOWMACS.jcl (text/plain) in CBT.V505.FILE763.PDS, moved to PDS/SHOWMACS
